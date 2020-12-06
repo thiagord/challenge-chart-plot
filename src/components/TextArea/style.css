@@ -1,0 +1,26 @@
+.TextArea{
+    resize: vertical !important;
+height: 300px;
+overflow: hidden;
+text-align: left;
+}
+
+.react-codemirror2 {
+  height: 100%;
+}
+.CodeMirror-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.CodeMirror{
+  overflow: hidden;
+  resize: both;
+  border: 2px solid;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 200px;
+  max-height: 400px;
+  font: 'Source Code Pro', monospace;
+  font-size: 15px;
+}
