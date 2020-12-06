@@ -11,6 +11,8 @@
 * Write tests;
 * Suggest and implement a protection for this application to deal with huge amount of data;
 
+# Demo on GitHub Pages: https://thiagord.github.io/challenge-chart-plot/
+
 
 # Plotting a chart
 
