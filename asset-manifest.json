@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/challenge-chart-plot/static/css/main.b92f1036.chunk.css",
+    "main.js": "/challenge-chart-plot/static/js/main.95a8bdac.chunk.js",
+    "main.js.map": "/challenge-chart-plot/static/js/main.95a8bdac.chunk.js.map",
+    "runtime-main.js": "/challenge-chart-plot/static/js/runtime-main.fd1a9462.js",
+    "runtime-main.js.map": "/challenge-chart-plot/static/js/runtime-main.fd1a9462.js.map",
+    "static/css/2.23249a66.chunk.css": "/challenge-chart-plot/static/css/2.23249a66.chunk.css",
+    "static/js/2.c6ac8824.chunk.js": "/challenge-chart-plot/static/js/2.c6ac8824.chunk.js",
+    "static/js/2.c6ac8824.chunk.js.map": "/challenge-chart-plot/static/js/2.c6ac8824.chunk.js.map",
+    "index.html": "/challenge-chart-plot/index.html",
+    "static/css/2.23249a66.chunk.css.map": "/challenge-chart-plot/static/css/2.23249a66.chunk.css.map",
+    "static/css/main.b92f1036.chunk.css.map": "/challenge-chart-plot/static/css/main.b92f1036.chunk.css.map",
+    "static/js/2.c6ac8824.chunk.js.LICENSE.txt": "/challenge-chart-plot/static/js/2.c6ac8824.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1a9462.js",
+    "static/css/2.23249a66.chunk.css",
+    "static/js/2.c6ac8824.chunk.js",
+    "static/css/main.b92f1036.chunk.css",
+    "static/js/main.95a8bdac.chunk.js"
+  ]
+}
